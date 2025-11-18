@@ -1,7 +1,6 @@
-import React from "react";
-import Title from "./Title";
-import assets from "../assets/assets";
 import { motion } from "motion/react";
+import assets from "../assets/assets";
+import Title from "./Title";
 
 const Work = () => {
   const workData = [

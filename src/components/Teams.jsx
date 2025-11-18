@@ -1,7 +1,6 @@
-import React from "react";
-import Title from "./Title";
-import { teamData } from "../assets/assets";
 import { motion } from "motion/react";
+import { teamData } from "../assets/assets";
+import Title from "./Title";
 
 const Teams = () => {
   return (

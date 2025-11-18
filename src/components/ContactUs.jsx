@@ -1,7 +1,7 @@
 import React from "react";
-import Title from "./Title";
-import assets from "../assets/assets";
 import toast from "react-hot-toast";
+import assets from "../assets/assets";
+import Title from "./Title";
 import { motion } from "motion/react";
 
 const ContactUs = () => {
@@ -10,7 +10,7 @@ const ContactUs = () => {
 
     const formData = new FormData(event.target);
 
-    formData.append("access_key", "f8c95d00-7ed2-47e7-a4e0-5d1873fb9f8e");
+    formData.append("access_key", "9720e3c9-dead-416d-b8d8-9d5a9b4e8628");
 
     try {
       const response = await fetch("https://api.web3forms.com/submit", {
@@ -54,10 +54,7 @@ const ContactUs = () => {
       >
         <div className="">
           <p className="mb-2 text-sm font-medium">Your name</p>
-          <div
-            className="flex pl-3 rounded-lg border border-gray-300
-          dark:border-gray-600"
-          >
+          <div className="flex pl-3 rounded-lg border border-gray-300 dark:border-gray-600">
             <img src={assets.person_icon} alt="" className="" />
             <input
               type="text"
@@ -71,10 +68,7 @@ const ContactUs = () => {
 
         <div className="">
           <p className="mb-2 text-sm font-medium">Email id</p>
-          <div
-            className="flex pl-3 rounded-lg border border-gray-300
-          dark:border-gray-600"
-          >
+          <div className="flex pl-3 rounded-lg border border-gray-300 dark:border-gray-600">
             <img src={assets.email_icon} alt="" className="" />
             <input
               type="email"
@@ -90,8 +84,7 @@ const ContactUs = () => {
           <textarea
             rows={8}
             placeholder="Enter your message"
-            className="w-full p-3 text-sm outline-none rounded-lg border border-gray-300
-          dark:border-gray-600"
+            className="w-full p-3 text-sm outline-none rounded-lg border border-gray-300 dark:border-gray-600"
             name="message"
             required
           />
@@ -99,8 +92,7 @@ const ContactUs = () => {
 
         <button
           type="submit"
-          className="w-max flex gap-2 bg-primary text-white text-sm px-10
-          py-3 rounded-full cursor-pointer hover:scale-103 transition-all"
+          className="w-max flex gap-2 bg-primary text-white text-sm px-10 py-3 rounded-full cursor-pointer hover:scale-103 transition-all"
         >
           Submit
           <img src={assets.arrow_icon} alt="" className="w-4" />

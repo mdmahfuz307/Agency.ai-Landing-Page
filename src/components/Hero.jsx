@@ -1,6 +1,6 @@
 import React from "react";
-import assets from "../assets/assets";
 import { motion } from "motion/react";
+import assets from "../assets/assets";
 
 const Hero = () => {
   return (
@@ -32,7 +32,7 @@ const Hero = () => {
       >
         Turning imagination into{" "}
         <span
-          className="bg-gradient-to-r from-[#5044E5] to-[#4d8cea] bg-clip-text
+          className="bg-linear-to-r from-primary to-[#4d8cea] bg-clip-text
         text-transparent"
         >
           digital
