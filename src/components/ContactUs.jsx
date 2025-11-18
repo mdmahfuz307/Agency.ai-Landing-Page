@@ -7,6 +7,7 @@ import { motion } from "motion/react";
 const ContactUs = () => {
   const onSubmit = async (event) => {
     event.preventDefault();
+    
 
     const formData = new FormData(event.target);
 

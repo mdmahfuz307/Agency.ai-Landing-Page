@@ -20,6 +20,7 @@ const Work = () => {
       img: assets.work_fitness_app,
     },
   ];
+  
 
   return (
     <motion.div

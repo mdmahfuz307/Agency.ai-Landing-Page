@@ -11,6 +11,7 @@ const ThemeToggleBtn = ({ theme, setTheme }) => {
       setTheme(prefersDarkMode ? "dark" : "light");
     }
   }, []);
+  
 
   useEffect(() => {
     // Apply dark class whenever theme changes

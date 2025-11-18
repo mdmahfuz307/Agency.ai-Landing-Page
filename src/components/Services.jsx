@@ -56,6 +56,7 @@ const Services = () => {
         ))}
       </div>
     </motion.div>
+    
   );
 };
 

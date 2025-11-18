@@ -4,6 +4,7 @@ import Title from "./Title";
 
 const Teams = () => {
   return (
+    
     <motion.div
       initial="hidden"
       whileInView="visible"

@@ -113,4 +113,4 @@ export const teamData = [
     title: "Senior writer",
     image: "https://randomuser.me/api/portraits/women/14.jpg",
   },
-];
+];   

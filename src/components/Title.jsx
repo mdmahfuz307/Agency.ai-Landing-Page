@@ -10,6 +10,7 @@ const Title = ({ title, desc }) => {
         viewport={{ once: true }}
         className="text-3xl sm:text-5xl font-medium"
       >
+      
         {title}
       </motion.h2>
       <motion.p

@@ -25,6 +25,7 @@ const Servicecard = ({ service, index }) => {
       ref={divRef}
       onMouseMove={handleMouseMove}
     >
+    
       <div
         className={`pointer-events-none blur-2xl rounded-full bg-linear-to-r
         from-blue-500 via-indigo-500 to-purple-500 w-[300px] h-[300px] absolute

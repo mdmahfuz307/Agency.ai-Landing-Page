@@ -10,6 +10,7 @@ const TrustedBy = () => {
       viewport={{ once: true }}
       className="flex flex-col items-center px-4 sm:px-12 lg:px-24 xl:px-40 gap-10 text-gray-700 dark:text-white/80"
     >
+    
       <motion.h3
         initial={{ y: 20, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
