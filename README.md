@@ -1,16 +1,71 @@
-# React + Vite
+# ⚡ Agency.AI Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+A modern, animated, and responsive **AI Agency Landing Page** built with **React (Vite)**, **Tailwind CSS**, and **Framer Motion**.  
+This project demonstrates a sleek UI with smooth animations, optimized performance, and a developer-friendly setup.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://agency-ai-nirobstack.netlify.app/)  
+[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdmahfuz307/Agency.ai-Landing-Page)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## ✨ Key Features  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🚀 **Vite + React** – Fast development environment with hot module replacement  
+- 🎨 **Tailwind CSS** – Utility-first responsive styling  
+- 🎭 **Framer Motion** – Smooth animations & transitions  
+- 📱 **Fully Responsive** – Mobile-first design for all devices  
+- ⚡ **Optimized Performance** – Lightweight and fast-loading landing page  
+- 🖼️ **Modern UI/UX** – Clean sections with call-to-actions and interactive design  
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,github,netlify" alt="Tech Stack" width="400"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Animation-FramerMotion-ff69b4?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+</p>
+
+---
+
+<!--
+## 📸 Screenshot  
+
+*(Add a screenshot of your project UI here)*  
+
+
+<!-- <p align="center">
+  <img src="https://ik.imagekit.io/yqnbhdlo4/Img/agency.ai?updatedAt=1756187710084" alt="Agency.AI Landing Page Screenshot" width="1000"/>
+</p>  -->
+
+
+## 📂 Project Structure  
+```bash
+agency.ai-landing-page/
+├── public/ # Static assets (images, icons, fonts)
+├── src/
+│ ├── assets/ # Project assets (logo, images)
+│ ├── components/ # Reusable UI components
+│ ├── pages/ # Main sections/pages
+│ ├── App.jsx # Root component
+│ ├── main.jsx # Vite entry file
+│ └── index.css # Global styles (Tailwind imports)
+├── package.json
+├── tailwind.config.js
+└── vite.config.js
+
+---
+
+## ⚙️ Installation & Setup  
+
+1. **Clone the repository**  
+   ```bash
+   git clone [https://github.com/mdmahfuz307/Agency.ai-Landing-Page.git]
+   cd Agency.ai-Landing-Page
+
+## Install dependencies
+
+npm install
