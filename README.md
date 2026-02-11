@@ -1,11 +1,11 @@
-# ⚡ Agency.AI Landing Page
+# ⚡ AxisTech.AI Landing Page
 
 
-A modern, animated, and responsive **AI Agency Landing Page** built with **React (Vite)**, **Tailwind CSS**, and **Framer Motion**.  
-This project demonstrates a sleek UI with smooth animations, optimized performance, and a developer-friendly setup.  
+A Modern, Animated, and Responsive **AI Agency Landing Page** Built with **React (Vite)**, **Tailwind CSS**, and **Framer Motion**.  
+This project demonstrates a sleek UI with Smooth Animations, Optimized Performance, and a Developer-Friendly Setup.  
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://agency-ai-nirobstack.netlify.app/)  
-[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdmahfuz307/Agency.ai-Landing-Page)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://axistech-ai.netlify.app/)  
+[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdmahfuz307/AxisTech.ai-Landing-Page)
 
 ---
 
@@ -44,7 +44,7 @@ This project demonstrates a sleek UI with smooth animations, optimized performan
 
 ## 📂 Project Structure  
 ```bash
-agency.ai-landing-page/
+AxisTech.ai-landing-page/
 ├── public/ # Static assets (images, icons, fonts)
 ├── src/
 │ ├── assets/ # Project assets (logo, images)
