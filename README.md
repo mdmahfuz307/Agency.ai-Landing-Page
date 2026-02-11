@@ -63,8 +63,8 @@ AxisTech.ai-landing-page/
 
 1. **Clone the repository**  
    ```bash
-   git clone [https://github.com/mdmahfuz307/Agency.ai-Landing-Page.git]
-   cd Agency.ai-Landing-Page
+   git clone [https://github.com/mdmahfuz307/AxisTech.ai-Landing-Page.git]
+   cd AxisTech.ai-Landing-Page
 
 ## Install dependencies
 
